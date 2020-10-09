@@ -10,6 +10,8 @@
 &#x202b;3. نقوم بإختيار public
 <br>
 &#x202b;4. نقوم بالضغط على Initialize this repository with a README
+<br>
+&#x202b;5. نضغط على Create repository
 
 <!--### الخطوات 
 
