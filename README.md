@@ -9,10 +9,10 @@
 <br>
 &#x202b;3. نقوم بإختيار public
 <br>
-&#x202b;4. نقوم بالضغط على Add a README file
-<br>
-&#x202b;5. نضغط على Create repository
+&#x202b;4. نضغط على Create repository
 
+### ملاحظة:
+هذا الواجب لا يحتاج Push فقط يحتاج Fork 
 <!--### الخطوات 
 
 <!--<br>
